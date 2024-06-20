@@ -1,0 +1,12 @@
+<styles>
+    <colorScheme>
+        <primary>#277DA1</primary>
+        <hover>#90BE6D</hover>
+        <active>#F8961E</active>
+        <background>#F3DE2C</background>
+        <text>#333333</text>
+    </colorScheme>
+    <fonts>
+        <fontFamily>Source Sans Pro</fontFamily>
+    </fonts>
+</styles>
